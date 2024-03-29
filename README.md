@@ -1,6 +1,6 @@
-# Quizify
+# Quizzify
 
-Quizify is a versatile quiz application that allows users to create, share, and take quizzes with ease. With Quizify, users can engage in interactive learning experiences, test their knowledge, and challenge their friends.
+Quizzify is a versatile quiz application that allows users to create, share, and take quizzes with ease. With Quizzify, users can engage in interactive learning experiences, test their knowledge, and challenge their friends.
 ## Screenshots
 
 [Screenshots](https://drive.google.com/drive/folders/1qoYGiEmwTiy1yt_1em9GgRAFKiuinVqN?usp=drive_link)
@@ -12,13 +12,13 @@ Quizify is a versatile quiz application that allows users to create, share, and 
 
 ## APK Link
 
-Download the Quizify APK from [here](https://drive.google.com/file/d/1NRCeppP4FIj-NG-KQP2YwfhdEJDxukdm/view?usp=drive_link).
+Download the Quizzify APK from [here](https://drive.google.com/file/d/1NRCeppP4FIj-NG-KQP2YwfhdEJDxukdm/view?usp=drive_link).
 
 
 
 ## Features
 
-- **User Registration and Authentication:** Users can register and log in securely to Quizify using Firebase Authentication.
+- **User Registration and Authentication:** Users can register and log in securely to Quizzify using Firebase Authentication.
 - **Authorization and User Roles:** Firebase is utilized for user authorization and role-based access control (RBAC) to manage user permissions.
 - **Quiz Creation:** Users can create custom quizzes by adding questions, answers, and optional timers.
 - **Quiz Sharing:** Share quizzes with friends via unique quiz IDs or through messaging platforms like WhatsApp.
@@ -34,7 +34,7 @@ Download the Quizify APK from [here](https://drive.google.com/file/d/1NRCeppP4FI
 
 ## Getting Started
 
-To get started with Quizify, follow these steps:
+To get started with Quizzify, follow these steps:
 
 1. **Clone the repository:**
 
@@ -44,7 +44,7 @@ To get started with Quizify, follow these steps:
 2. **Navigate to the project directory:**
 
      ```bash
-     cd quizify
+     cd Quizzify
 
 3. **Install dependencies:**
 
@@ -73,7 +73,7 @@ To get started with Quizify, follow these steps:
 ## Technologies Used
 
 - **Flutter:** Flutter is used for cross-platform app development, enabling seamless experiences on both iOS and Android.
-- **Firebase:** Firebase provides backend services such as authentication and authorization, powering real-time features in Quizify.
+- **Firebase:** Firebase provides backend services such as authentication and authorization, powering real-time features in Quizzify.
 - **Node.js Express:** Node.js with Express is used to build the backend API, providing RESTful endpoints for the application.
 - **MongoDB:** MongoDB is used as the database to store user data, quiz details, and results.
 
