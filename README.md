@@ -1,6 +1,20 @@
 # Quizify
 
 Quizify is a versatile quiz application that allows users to create, share, and take quizzes with ease. With Quizify, users can engage in interactive learning experiences, test their knowledge, and challenge their friends.
+## Screenshots
+
+[Screenshots](https://drive.google.com/drive/folders/1qoYGiEmwTiy1yt_1em9GgRAFKiuinVqN?usp=drive_link)
+
+
+## Video Demo
+
+[Video Demo](https://drive.google.com/file/d/1rE2SIFxi9LQztmAh9xeA4vQ_0PUJajVv/view?usp=sharing)
+
+## APK Link
+
+Download the Quizify APK from [here](https://drive.google.com/file/d/1NRCeppP4FIj-NG-KQP2YwfhdEJDxukdm/view?usp=drive_link).
+
+
 
 ## Features
 
@@ -50,6 +64,11 @@ To get started with Quizify, follow these steps:
    - Install dependencies using `npm install`.
    - Configure environment variables such as database connection strings and Firebase credentials.
    - Run the backend server using `npm start`.
+6. **Setting Up Firebase**
+
+    Firebase is used for user authentication and authorization in Quizzify. Follow this guide to set up Firebase for your project:
+
+    [Complete Guide to Setting Up Firebase in Flutter](https://medium.com/@FlutterStudio/a-complete-guide-to-setting-up-firebase-in-flutter-5bf3c7356dc7)
 
 ## Technologies Used
 
@@ -60,21 +79,9 @@ To get started with Quizify, follow these steps:
 
 ## Contributions
 
-Contributions to Quizify are welcome! If you'd like to contribute, please follow these steps:
+Contributions are welcome! If you find any issues or have suggestions for improvement, please create an issue or submit a pull request
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/new-feature`).
-3. Make your changes and commit them (`git commit -am 'Add new feature'`).
-4. Push your changes to the branch (`git push origin feature/new-feature`).
-5. Create a new Pull Request.
+## Contact
 
-## License
+If you have any questions or need further assistance, please feel free to contact me at skjnv2009@gmail.com.
 
-Quizify is licensed under the MIT License.
-
-## Support
-
-For any questions or issues regarding Quizify, please open an issue on GitHub.
-```
-
-This README file incorporates all the provided instructions, technology stack, contribution guidelines, license information, and support details in a single document. Adjustments can be made as needed.arding Quizify, please open an issue on GitHub.
