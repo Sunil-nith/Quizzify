@@ -83,5 +83,5 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Contact
 
-If you have any questions or need further assistance, please feel free to contact me at skjnv2009@gmail.com.
+If you have any questions or need further assistance, please feel free to contact me at ksunil.appdev@gmail.com.
 
